@@ -1,6 +1,6 @@
 # logrep3
 
-This is my python3 implementation of a python script called `logrep.py` from [Linux Pro Magazine's](https://www.linuxpromagazine.com) 2020 special edition magazine "[LibreOffice](https://www.linux-magazine.com/Resources/Special-Editions/40-LibreOffice-2020-Edition)".
+This is my python3 implementation of a python script called `logrep.py` from [Linux Pro Magazine's](https://www.linuxpromagazine.com) 2020 special edition magazine "[LibreOffice - Dive deep into the world's greatest free office suite](https://www.linux-magazine.com/Resources/Special-Editions/40-LibreOffice-2020-Edition)".
 
 The magazine includes a python 2.7 script, but considering python 2.7 was EOL as of January 1, 2020, I think it makes sense for the script to be updated to python3.
 
