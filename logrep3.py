@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# This is a Python 3 adaptation of a script originally written by Hans-Georg Eßer for Linux Pro Magazine's 2020
+#     special edition "LibreOffice". Hans's GitHub page is: https://github.com/hgesser
+
 from re import search, split
 import sys
 import xml.dom.minidom
